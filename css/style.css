@@ -1,0 +1,37 @@
+h1 p{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navtext{
+    font-weight: bold;
+    color: black;
+
+}
+.leftimg{
+    background-image: url(/Logo\,\ Icon/Group 33091.png);
+    background: #black;
+}
+.product{
+    display: flex;
+}
+.last-img{
+    width: 100%;
+}
+.left-content{
+    display: flex;
+    float: left;
+    width: 500px;
+}
+.space-content{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.Discount{
+    background: #ece4e4e5;
+    align-items: center;
+}
+.center{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
